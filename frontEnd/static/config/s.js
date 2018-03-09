@@ -1,0 +1,40 @@
+/**
+ * Created by Gaoyu on 2017/8/14.
+ */
+var temp;
+$.ajax({
+  url:"static/config/config.json",
+  type:'Get',
+  dataType:'json',
+  async:false,
+  success:function(data){
+    temp=data;
+  },
+  error:function(err){
+  	alert(err)
+  }
+})
+console.log(temp)
+export default{
+  "self_adaption":temp.self_adaption,
+  "width":temp.width,
+  "height":temp.height,
+  "arcServerUrl":temp.arcServerUrl,
+  "serverAddress":temp.serverAddress,
+  "videoServerAddress":temp.videoServerAddress,
+  "videoStreamAddress":temp.videoStreamAddress,
+  "newsServer":temp.newsServer,
+  //接触警模块
+  "alarmServer":temp.alarmServer,
+  "alarmServer_alarm_state":temp.alarmServer+temp.alarm_state,
+  "alarmServer_alarm_type":temp.alarmServer+temp.alarm_type,
+  "alarmServer_alarm_use":temp.alarmServer+temp.alarm_use,
+  "alarmServer_alarm_area":temp.alarmServer+temp.alarm_area,
+  "alarmServer_alarm_reType":temp.alarmServer+temp.alarm_reType,
+  "alarmServer_alarm_duty":temp.alarmServer+temp.alarm_duty,
+  "alarmServer_alarm_gisMap":temp.alarmServer+temp.alarm_gisMap,
+  //事件专题模块
+  "event_conferenceMember":temp.alarmServer+temp.event_conferenceMember,
+  "event_conferenceMsg":temp.alarmServer+temp.event_conferenceMsg,
+  "RTSPServer":temp.RTSPServer
+}

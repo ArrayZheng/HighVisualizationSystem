@@ -1,0 +1,44 @@
+export default {
+  alarm: {
+    topNav:{
+			titleName:'警情专题',
+			viceTitleName:'总体趋势'
+		},
+		pieSemi:{
+			name:'警情概况',
+			processed:'处理完毕',
+			processing:'正在处理',
+			total:'处警总数'
+		},
+		pie:{
+			name:'警情类型分布',
+			police:'警察',
+			medical:'医疗',
+			traffic:'交通',
+			fire:'消防'
+		},
+		bar4:{
+			name:'资源使用率',
+			police:'警察',
+			medical:'医疗',
+			traffic:'交通',
+			fire:'消防'
+		},
+		barVer:{
+			name:'重点区域监控'
+		},
+		pie3:{
+			name:'接警类型分布',
+			normal:'有效',
+			invalid:'无效',
+			consult:'登记和咨询'
+		},
+		video:{
+			name:'实时视频',
+			police:'警察',
+			medical:'医疗',
+			traffic:'交通',
+			fire:'消防'
+		},
+  }
+}

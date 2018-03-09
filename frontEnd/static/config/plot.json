@@ -1,0 +1,543 @@
+﻿[{
+    "ID": "7db4d01e-c5b0-4127-9b01-bf4048ea12c0",
+    "Type": "Text",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7594940.55814,
+        "Y": -1857749.75501
+    }],
+    "Name": "GIS_Core.Element.TextElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Text",
+        "Color": "#FF000000",
+        "Size": "12",
+        "Angle": 0,
+        "Text": "GIS_Core.Element.TextElement"
+    }
+}, {
+    "ID": "feb04f95-5fb3-4db6-905d-48c791a422ee",
+    "Type": "Rectangle",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7594634.81003,
+        "Y": -1860444.16026
+    }, {
+        "X": -7592857.64912,
+        "Y": -1859660.68072
+    }],
+    "Name": "GIS_Core.Element.RectangleELement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Plane",
+        "FillColor": "#4DED5F76",
+        "OutLine": {
+            "StyleType": "Line",
+            "LineColor": "#FFED5F76",
+            "LineWidth": "2",
+            "LineType": "Solid"
+        }
+    }
+}, {
+    "ID": "31b9263e-70af-4b0d-987b-44e1ae45114d",
+    "Type": "Point",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7588691.83108,
+        "Y": -1859870.88254
+    }],
+    "Name": "GIS_Core.Element.PointElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Point",
+        "Color": "#FFED5F76",
+        "Size": "15",
+        "Angle": "0",
+        "PointType": "Circle"
+    }
+}, {
+    "ID": "b9d80b03-c08d-45a4-8b90-503ca7f8734a",
+    "Type": "Polygon",
+    "Angle": 5.65829906926452,
+    "ControlPoint": [{
+        "X": -7591634.65667,
+        "Y": -1859947.31957
+    }, {
+        "X": -7590138.30467,
+        "Y": -1857730.64575
+    }, {
+        "X": -7589341.54582,
+        "Y": -1859484.34340
+    }],
+    "Name": "GIS_Core.Element.PolygonElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Plane",
+        "FillColor": "#4DED5F76",
+        "OutLine": {
+            "StyleType": "Line",
+            "LineColor": "#FFED5F76",
+            "LineWidth": "2",
+            "LineType": "Solid"
+        }
+    }
+}, {
+    "ID": "10daa592-4fd1-4e20-9951-4816f0d21158",
+    "Type": "Line",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7587373.29234,
+        "Y": -1857635.09947
+    }, {
+        "X": -7585844.55177,
+        "Y": -1859526.91592
+    }, {
+        "X": -7587201.30902,
+        "Y": -1860692.58060
+    }, {
+        "X": -7588787.37736,
+        "Y": -1858686.10861
+    }],
+    "Name": "GIS_Core.Element.LineElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Line",
+        "LineColor": "#FFED5F76",
+        "LineWidth": "2",
+        "LineType": "Solid"
+    }
+}, {
+    "ID": "23916022-a6c2-466c-9233-7f151e548d5a",
+    "Type": "Sector",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7585213.94629,
+        "Y": -1858361.25124
+    }, {
+        "X": -7581277.43933,
+        "Y": -1857940.84758
+    }, {
+        "X": -7584010.06309,
+        "Y": -1856813.40141
+    }],
+    "Name": "GIS_Core.Element.SectorElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Plane",
+        "FillColor": "#4DED5F76",
+        "OutLine": {
+            "StyleType": "Line",
+            "LineColor": "#FFED5F76",
+            "LineWidth": "2",
+            "LineType": "Solid"
+        }
+    }
+}, {
+    "ID": "86a97d19-7a6d-4c3a-9416-fb69a36d531f",
+    "Type": "Arc",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7580035.33762,
+        "Y": -1858896.31043
+    }, {
+        "X": -7577455.58792,
+        "Y": -1858514.12529
+    }, {
+        "X": -7578296.39523,
+        "Y": -1858055.50312
+    }],
+    "Name": "GIS_Core.Element.ArcElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Line",
+        "LineColor": "#FFED5F76",
+        "LineWidth": "2",
+        "LineType": "Solid"
+    }
+}, {
+    "ID": "e2319fbb-1aa7-4d19-a44a-b548e27b0aba",
+    "Type": "Arch",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7584526.01303,
+        "Y": -1858323.03272
+    }, {
+        "X": -7582156.46516,
+        "Y": -1860310.39546
+    }, {
+        "X": -7583857.18904,
+        "Y": -1860826.34540
+    }],
+    "Name": "GIS_Core.Element.ArchElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Plane",
+        "FillColor": "#4DED5F76",
+        "OutLine": {
+            "StyleType": "Line",
+            "LineColor": "#FFED5F76",
+            "LineWidth": "2",
+            "LineType": "Solid"
+        }
+    }
+}, {
+    "ID": "4282829f-d16c-45b0-a7e1-d1b014d70ee6",
+    "Type": "PolyCurve",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7592513.68249,
+        "Y": -1861552.49717
+    }, {
+        "X": -7590488.10124,
+        "Y": -1860941.00094
+    }, {
+        "X": -7590297.00867,
+        "Y": -1862909.25442
+    }, {
+        "X": -7587851.02377,
+        "Y": -1862622.61556
+    }, {
+        "X": -7587182.19977,
+        "Y": -1863692.73396
+    }, {
+        "X": -7584793.54263,
+        "Y": -1862679.94333
+    }, {
+        "X": -7584736.21486,
+        "Y": -1864151.35613
+    }],
+    "Name": "GIS_Core.Element.PolyCurveElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Line",
+        "LineColor": "#FFED5F76",
+        "LineWidth": "2",
+        "LineType": "Solid"
+    }
+}, {
+    "ID": "32bd31a2-96d6-4c96-87fe-fa13468e593c",
+    "Type": "StraightArrow",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7594845.01185,
+        "Y": -1861820.02677
+    }, {
+        "X": -7592934.08615,
+        "Y": -1863100.34699
+    }],
+    "Name": "GIS_Core.Element.StraightArrowElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Plane",
+        "FillColor": "#4DED5F76",
+        "OutLine": {
+            "StyleType": "Line",
+            "LineColor": "#FFED5F76",
+            "LineWidth": "2",
+            "LineType": "Solid"
+        }
+    }
+}, {
+    "ID": "39fd951f-78f1-41da-8c76-e96e7ca1854c",
+    "Type": "Circle",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7595131.65071,
+        "Y": -1865087.70973
+    }, {
+        "X": -7595074.32294,
+        "Y": -1862488.85076
+    }],
+    "Name": "GIS_Core.Element.CircleElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Plane",
+        "FillColor": "#4DED5F76",
+        "OutLine": {
+            "StyleType": "Line",
+            "LineColor": "#FFED5F76",
+            "LineWidth": "2",
+            "LineType": "Solid"
+        }
+    }
+}, {
+    "ID": "446048b2-6257-4d93-b87a-cedb16e31bad",
+    "Type": "CurveArrow",
+    "Angle": 5.28372646021838,
+    "ControlPoint": [{
+        "X": -7592265.26215,
+        "Y": -1864380.66721
+    }, {
+        "X": -7590660.08455,
+        "Y": -1865297.91155
+    }, {
+        "X": -7588902.03290,
+        "Y": -1862106.66562
+    }],
+    "Name": "GIS_Core.Element.CurveArrowElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Plane",
+        "FillColor": "#4DED5F76",
+        "OutLine": {
+            "StyleType": "Line",
+            "LineColor": "#FFED5F76",
+            "LineWidth": "2",
+            "LineType": "Solid"
+        }
+    }
+}, {
+    "ID": "73562308-f3c4-4dc7-badd-111ae2c4138e",
+    "Type": "Ellipse",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7589265.10879,
+        "Y": -1864571.75978
+    }, {
+        "X": -7587468.83862,
+        "Y": -1865431.67635
+    }],
+    "Name": "GIS_Core.Element.EllipseElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Plane",
+        "FillColor": "#4DED5F76",
+        "OutLine": {
+            "StyleType": "Line",
+            "LineColor": "#FFED5F76",
+            "LineWidth": "2",
+            "LineType": "Solid"
+        }
+    }
+}, {
+    "ID": "42e4aa21-5465-4765-93d0-c3247808ccca",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7582022.70036,
+        "Y": -1862355.08596
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.Hand.png",
+        "SelectedPicturePath": "GIS_Core.Images.Hand_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "Hand",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "f1ea092b-a623-4336-bced-92d81ddc7043",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7580321.97648,
+        "Y": -1862316.86745
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.Car.png",
+        "SelectedPicturePath": "GIS_Core.Images.Car_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "Car",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "772fdb95-21f6-4074-bb29-5e2d1fa9e23e",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7578430.16003,
+        "Y": -1862240.43042
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.PoliceCar.png",
+        "SelectedPicturePath": "GIS_Core.Images.PoliceCar_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "PoliceCar",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "11e08f54-c5bd-4709-96f6-7582734e3db7",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7575754.86404,
+        "Y": -1862335.97671
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.Police.png",
+        "SelectedPicturePath": "GIS_Core.Images.Police_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "Police",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "c2f0287e-59af-41d7-81a7-b92823105488",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7573729.28279,
+        "Y": -1861972.90082
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.Ambulance.png",
+        "SelectedPicturePath": "GIS_Core.Images.Ambulance_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "Ambulance",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "0aa32199-a4d5-449b-be3a-f1fb6e5b0085",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7571741.92005,
+        "Y": -1861189.42128
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.Doctor.png",
+        "SelectedPicturePath": "GIS_Core.Images.Doctor_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "Doctor",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "96c2f564-08cb-4679-a26f-430ffd5d4264",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7570385.16280,
+        "Y": -1860692.58060
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.FireEngine.png",
+        "SelectedPicturePath": "GIS_Core.Images.FireEngine_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "FireEngine",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "bea84785-6da4-466c-9462-d4d145ae67f9",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7582252.01144,
+        "Y": -1864132.24687
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.Fireman.png",
+        "SelectedPicturePath": "GIS_Core.Images.Fireman_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "Fireman",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "ca803487-4a68-48a8-9dca-a1af03dc0fc6",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7580895.25419,
+        "Y": -1863558.96916
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.PoliceHat.png",
+        "SelectedPicturePath": "GIS_Core.Images.PoliceHat_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "PoliceHat",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "30d61815-fb2a-4bb2-a045-01d34a7b56ae",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7578640.36186,
+        "Y": -1864036.70059
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.GasStation.png",
+        "SelectedPicturePath": "GIS_Core.Images.GasStation_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+       "Width": 45,
+        "Height": 50,
+        "PictureType": "GasStation",
+        "IsLocalPicture": "True"
+    }
+}, {
+    "ID": "d2eff556-789c-467e-bac8-4690234768e3",
+    "Type": "Picture",
+    "Angle": 0,
+    "ControlPoint": [{
+        "X": -7576481.01581,
+        "Y": -1864017.59133
+    }],
+    "Name": "GIS_Core.Element.PictureElement",
+    "Remark": "",
+    "Style": {
+        "StyleType": "Picture",
+        "PicturePath": "GIS_Core.Images.UAV.png",
+        "SelectedPicturePath": "GIS_Core.Images.UAV_s.png",
+        "Angle": 0,
+        "Opacity": 1,
+        "Width": 45,
+        "Height": 50,
+        "PictureType": "UAV",
+        "IsLocalPicture": "True"
+    }
+}]
